@@ -34,7 +34,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=shubhxtech&show_icons=true&locale=en" alt="shubhxtech GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhxtech" alt="shubhxtech GitHub Streak Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhxtech&layout=compact&langs_count=6" alt="Top Languages" />
     </td>
   </tr>
 </table>
