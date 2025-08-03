@@ -6,17 +6,6 @@
 - 🤖 Interested in **Machine Learning, Deep Learning, and Open Source**
 - 📫 **Contact me via Email:** [shubhxtech@gmail.com](mailto:shubhxtech@gmail.com)
 
----
-
-### 🔗 Connect with me:
-<!-- Add your social links here if needed -->
-<!-- Example:
-<p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
--->
-
----
 
 ### 🛠️ Languages and Tools:
 <p align="left">
