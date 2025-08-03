@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shubh Sahu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 ---
 
 - 🎓 **B.Tech CSE at IIT Mandi**
