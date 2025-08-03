@@ -41,10 +41,13 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhxtech&show_icons=true&locale=en" alt="shubhxtech GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhxtech" alt="shubhxtech Streak Stats" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=shubhxtech&show_icons=true&locale=en" alt="shubhxtech GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhxtech" alt="shubhxtech GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
