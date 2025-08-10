@@ -2,7 +2,7 @@
 
 
 - 🎓 **B.Tech CSE at IIT Mandi**
-- 💻 ** Developer** | Web & App Development Enthusiast
+- 💻 **Developer** | Web & App Development Enthusiast
 - 🤖 Interested in **Machine Learning, Deep Learning, and Open Source**
 - 📫 **Contact me via Email:** [shubhxtech@gmail.com](mailto:shubhxtech@gmail.com)
 
